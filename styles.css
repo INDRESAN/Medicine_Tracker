@@ -259,14 +259,4 @@ body {
     transform: scale(1.05);
     opacity: 0.9;
 }
-.alert-container {
-    max-height: 150px;
-    overflow-y: auto;
-}
-
-.alert {
-    padding: 10px;
-    margin: 5px 0;
-    border-radius: 5px;
-}
 
